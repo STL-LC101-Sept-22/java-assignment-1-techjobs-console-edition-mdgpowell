@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Created by LaunchCode
  */
 public class TechJobs {
-
+    //test
     static Scanner in = new Scanner(System.in);
 
     public static void main (String[] args) {
